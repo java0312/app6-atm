@@ -74,6 +74,10 @@ public class SendMoneyController {
 * sistema ...
 * ko'paytmasining yarmiga teng ekan.
 * Qo'zg'almas o'q atrofida aylanuvchi qattiq jismning kinetk energiyasi aylanish o'qiga nisbatan ...
+* Murakkab harakat nisbiy va ko'chirma harakatlarining yig'indisidan iborat
+* Bu holda Kinetik Energiya  uchun quyidagi teoremani keltiramiz
+* Teorema
+*   Massalar markazidagi nuqtaning kinetik energiyalarining yigindisiga teng...
 * */
 
 
